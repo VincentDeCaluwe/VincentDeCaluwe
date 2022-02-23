@@ -1,4 +1,11 @@
+<img width="838" alt="Vincent-De-Caluwe_Github" src="https://user-images.githubusercontent.com/100148733/155366672-2f28e28f-0e53-40fd-ae96-cefcaeb20265.png">
+
 ### Hi there 👋
+
+I'm Vincent De Caluwe, I work as a data analyst for [@Ambassify](https://www.ambassify.com/).
+For the past 7 years I've been working as a data analyst on data warehousing, reporting, visualization and analytics.
+I love to extract insights from data in order to facilitate data-driven decision making.
+
 
 <!--
 **VincentDeCaluwe/VincentDeCaluwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
